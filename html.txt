@@ -1,0 +1,124 @@
+html
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fotoblog</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+    <div id="app">
+        <header class="container"> 
+            <nav>
+                <img src="Assests/camera.svg" alt="desenho de uma camera fotografica">
+                <ul>
+                    <li>Home</li>
+                    <li class="active">Galeria</li> 
+                </ul>
+            </nav>
+            <form > 
+                <div class="input-wrapper">
+                    <label for="search">Pesquise por imagens e coleções</label>
+                    <input id="search" type="text" placeholder="Pesquise por imagens e coleções">
+                </div> 
+            </form>
+            <img  class="avatar" src="Assests/profile.jpeg" alt="uma foto de Stefani usando jaqueta branca e camiseta preta">
+        </header>
+        <main class="container">
+            <h1>Galeria</h1>
+                <section class="gallery"> 
+                    <figure class="post">
+                        <img src="Assests/Workspace elétrica.jpg" alt="Setup com luzes de led em forma de raio">
+                        <figcaption class="details">
+                            <h2>Workspace elétrica</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Red dark.jpg" alt="Setup com luzes vermelhas">
+                        <figcaption class="details">
+                            <h2>Dark and red</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Organização e grids.jpg" alt="Setup simples com muitas area de organização">
+                        <figcaption class="details">
+                            <h2>Organização e grids</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Colméia.jpg" alt="Setup com luzes em forma de colméia">
+                        <figcaption class="details">
+                            <h2>Colméia</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Setup de escritor.jpg" alt="Setup simples com bloco de notas">
+                        <figcaption class="details">
+                            <h2>Setup de escritor</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Ergonomia e cores.jpg" alt="Setup com cores vivas e uma cadeira ergonomica">
+                        <figcaption class="details">  
+                            <h2>Ergonomia e cores</h2>
+                            <div class="tags"> 
+                            <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Show de luzes.jpg" alt="Setup com muitas luzes">
+                        <figcaption class="details">
+                            <h2>Show de luzes</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Deep purple.jpg" alt="Setup com luzes de led roxas">
+                        <figcaption class="details">
+                            <h2>Deep purple</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                    <figure class="post">
+                        <img src="Assests/Multi-Screen.jpg" alt="Setup com muito monitores">
+                        <figcaption class="details">
+                            <h2>Multi-Screen</h2>
+                            <div class="tags"> 
+                                <span>tag</span> 
+                            </div>
+                        </figcaption>
+                    </figure>
+                </section>    
+        </main>
+        <footer class="container">
+            <p>© 2023 - Rocketseat Explorer</p>
+        </footer>
+    </div>
+</body>
+</html>
