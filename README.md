@@ -1,55 +1,36 @@
-📸 Fotoblog
-
-
-Bem-vindo ao Fotoblog, um projeto desenvolvido durante o programa Explorer da Rocketseat. Este é um site de galeria de imagens, onde você pode visualizar e pesquisar setups de workspaces inspiradores.
+# Fotoblog
 
 ![Fotoblog finalizado](https://github.com/StefaniSS/ProjetoExplorer-Fotoblog.StefaniSS/assets/150965526/d0583379-f5bb-4328-9a40-3f50c03af523)
 
-📝 Sobre o Projeto
+Este é um projeto desenvolvido como parte do programa **Explorer** da [Rocketseat](https://www.rocketseat.com.br/). O projeto consiste em uma página de fotoblog que exibe uma galeria de imagens com diferentes estilos de setups de escritórios. O objetivo principal é praticar habilidades de HTML e CSS, criando uma interface responsiva e atraente.
 
-Este projeto consiste em uma página web simples que exibe uma galeria de imagens de setups variados. O objetivo é aplicar conceitos de HTML, CSS e animações, criando uma interface visualmente agradável e responsiva.
+## 🚀 Tecnologias
 
-🚀 Funcionalidades
-Exibição de uma galeria de imagens com diferentes setups.
-Efeitos de animação ao carregar a página e ao interagir com as imagens.
-Campo de pesquisa para filtrar imagens e coleções (funcionalidade visual, sem backend).
-Design responsivo, adaptado para diferentes tamanhos de tela.
-🛠️ Tecnologias Utilizadas
-HTML5: Marcações estruturais da página.
-CSS3: Estilização e animações.
-Google Fonts: Tipografia customizada com a fonte Mulish.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-📂 Estrutura de Pastas
-bash
-Copiar código
-/
-├── index.html        # Estrutura da página principal
-├── style.css         # Estilos e animações da página
-├── Assets/           # Imagens e ícones utilizados no projeto
-│   ├── camera.svg
-│   ├── profile.jpeg
-│   ├── *.jpg
-│   └── *.png
-└── README.md         # Documentação do projeto
+- HTML5
+- CSS3
+
+## 📂 Estrutura de Arquivos
+
+A estrutura básica do projeto é a seguinte:
+
+/ ├── Assets/ │ ├── camera.svg │ ├── profile.jpeg │ ├── Workspace elétrica.jpg │ ├── Red dark.jpg │ ├── Organização e grids.jpg │ ├── Colméia.jpg │ ├── Setup de escritor.jpg │ ├── Ergonomia e cores.jpg │ ├── Show de luzes.jpg │ ├── Deep purple.jpg │ └── Multi-Screen.jpg ├── index.html └── style.css
 
 
-🔧 Como Usar
-Clone o repositório:
+- **Assets/**: Contém todas as imagens utilizadas no projeto.
+- **index.html**: Arquivo HTML principal que estrutura a página.
+- **style.css**: Arquivo CSS que estiliza a página.
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/fotoblog.git
-Navegue até o diretório do projeto:
+## 📄 Licença
 
-bash
-Copiar código
-cd fotoblog
-Abra o arquivo index.html em seu navegador preferido para visualizar o site.
-
-📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Desenvolvido com 💜 por [Stefani Silva](https://github.com/StefaniSS).
+Feito com 💜 por [Stefani](https://www.linkedin.com/in/seu-perfil-linkedin) e [Rocketseat](https://www.rocketseat.com.br/).
+
+
+
+
+
