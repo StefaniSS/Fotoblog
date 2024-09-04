@@ -1,15 +1,15 @@
-📸 #Fotoblog
+📸 Fotoblog
 
 
 Bem-vindo ao Fotoblog, um projeto desenvolvido durante o programa Explorer da Rocketseat. Este é um site de galeria de imagens, onde você pode visualizar e pesquisar setups de workspaces inspiradores.
 
 ![Fotoblog finalizado](https://github.com/StefaniSS/ProjetoExplorer-Fotoblog.StefaniSS/assets/150965526/d0583379-f5bb-4328-9a40-3f50c03af523)
 
-📝 #Sobre o Projeto
+📝 Sobre o Projeto
 
 Este projeto consiste em uma página web simples que exibe uma galeria de imagens de setups variados. O objetivo é aplicar conceitos de HTML, CSS e animações, criando uma interface visualmente agradável e responsiva.
 
-🚀 #Funcionalidades
+🚀 Funcionalidades
 Exibição de uma galeria de imagens com diferentes setups.
 Efeitos de animação ao carregar a página e ao interagir com as imagens.
 Campo de pesquisa para filtrar imagens e coleções (funcionalidade visual, sem backend).
@@ -19,7 +19,7 @@ HTML5: Marcações estruturais da página.
 CSS3: Estilização e animações.
 Google Fonts: Tipografia customizada com a fonte Mulish.
 
-📂 #Estrutura de Pastas
+📂 Estrutura de Pastas
 bash
 Copiar código
 /
@@ -31,6 +31,8 @@ Copiar código
 │   ├── *.jpg
 │   └── *.png
 └── README.md         # Documentação do projeto
+
+
 🔧 Como Usar
 Clone o repositório:
 
