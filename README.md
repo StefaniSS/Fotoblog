@@ -13,11 +13,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂 Estrutura de Arquivos
 
-A estrutura básica do projeto é a seguinte:
-
-/ ├── Assets/ │ ├── camera.svg │ ├── profile.jpeg │ ├── Workspace elétrica.jpg │ ├── Red dark.jpg │ ├── Organização e grids.jpg │ ├── Colméia.jpg │ ├── Setup de escritor.jpg │ ├── Ergonomia e cores.jpg │ ├── Show de luzes.jpg │ ├── Deep purple.jpg │ └── Multi-Screen.jpg ├── index.html └── style.css
-
-
 - **Assets/**: Contém todas as imagens utilizadas no projeto.
 - **index.html**: Arquivo HTML principal que estrutura a página.
 - **style.css**: Arquivo CSS que estiliza a página.
