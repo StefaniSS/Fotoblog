@@ -46,7 +46,8 @@ Copiar código
 cd fotoblog
 Abra o arquivo index.html em seu navegador preferido para visualizar o site.
 
-📄 #Licença
+📄 Licença
+
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 ---
